@@ -5,12 +5,9 @@
 ### - Text
 ### - Image
 ### - Video
-##
-##
+
 ## Real-world data is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors. 
 ## Data preprocessing is a proven method of resolving such issues. Data preprocessing prepares raw data for further processing.
-## ---------------------------------------------------------------------------------------------------------------------------
-##
 ##
 ## In this week's Challenge we'll learn how to preprocess Tabular, Image and Video data.
 ##
