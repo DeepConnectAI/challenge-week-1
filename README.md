@@ -11,5 +11,5 @@
 - Make you familiar with structured csv files, rgb and medical images, and even videos as well.
 - Give hands-on experience with core machine learning libraries like numpy, pandas, and matplotlib.
 - Even explore opencv for loading videos and pydicom to load medical images
-- The aim is to become familiar with these libraries. They will take some time to master.
+
 
