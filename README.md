@@ -1,4 +1,4 @@
-## Week 1 Challenge
+## Challenge Week 1
 
 #### Common forms of data that we interact with daily are:
 - Tabular
