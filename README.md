@@ -1,6 +1,6 @@
 ## Challenge Week 1
 
-#### Common forms of data that we interact with daily are:
+#### Forms of data that are common in daily life interactions are:
 - Tabular
 - Text
 - Images
